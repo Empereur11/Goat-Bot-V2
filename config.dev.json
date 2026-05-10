@@ -1,0 +1,18 @@
+{
+  "facebookAccount": {
+    "appState": "fbstate.json",
+    "email": "",
+    "password": "",
+    "2FASecret": "",
+    "i_user": "",
+    "proxy": null,
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36"
+  },
+  "antiInbox": false,
+  "language": "fr",
+  "adminOnly": {
+    "enable": false,
+    "ignoreCommand": []
+  },
+  "adminBot": [61579515081344]
+}
